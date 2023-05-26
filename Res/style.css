@@ -1,0 +1,52 @@
+.navbar{
+    border:solid red;
+    height:22vh;
+    margin:25px;
+}
+.introContainer{
+    border:solid blue;
+    height:22vh;
+    margin:25px;
+    display:flex;
+    justify-content: space-evenly;
+    padding:4px;
+}
+.skillsContainer{
+    border:solid pink;
+    height:22vh;
+    margin:25px;
+    display:flex;
+    justify-content: space-evenly;
+    padding:4px;
+}
+.xpContainer{
+    border:solid purple;
+    height:22vh;
+    margin:25px;
+    display:flex;
+}
+.profileContainer, .imgContainer, .contactContainer{
+    border:solid lightblue;
+    width:33%;
+}
+.eduContainer, .assetContainer, .industryContainer{
+    border:solid orange;
+    width:33%;
+}
+.left{
+    border:solid green;
+    width:70%;
+}
+.right{
+    border:solid purple;
+    width:30%;
+}
+.namebox{
+    border: solid black;
+    height: 80px;
+    width: 40px;
+    margin-left:8%;
+    margin: top 30px;
+    
+
+}
